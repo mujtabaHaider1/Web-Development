@@ -1,6 +1,5 @@
 # Web-Development
 It contains all my web-development work and projects.
-<br>
 - 👋 Hi, I’m Mujtaba Haider.
 - 👀 I’m interested in Designing.
 - 🌱 I’m currently learning Graphics and Web Designing.
